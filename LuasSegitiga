@@ -30,14 +30,14 @@ for j in range(0, s):
     print(' ',end='')
     s -= 2
 for j in range(0, i + 1):
-     print('* ', end='')
+    print('* ', end='')
  print('')
 
 print('\n\n4')
 a = 5
 s = 0 # for spaces
 for i in range(0, a):
-    for j in range(0, s):
+for j in range(0, s):
      # print(j, end='')
         print(' ',end='')
     s += 2
